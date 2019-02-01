@@ -1,5 +1,7 @@
 # Effective Python
 
+[59个编写高质量Python代码的中文翻译版](https://guoruibiao.gitbooks.io/effective-python/content/)
+
 Hello! You've reached the official source code repository for _Effective Python_. To learn more about the book or contact the author, please [visit the official website](http://www.effectivepython.com).
 
 [![Cover](./cover.jpg)](http://www.effectivepython.com)
